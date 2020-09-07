@@ -1,3 +1,20 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "Rcpp"]
+	path = Rcpp
+	url = https://github.com/rcppcore/rcpp
+	shallow = true
+[submodule "RcppArmadillo"]
+	path = RcppArmadillo
+	url = https://github.com/rcppcore/rcpparmadillo
+	shallow = true
+[submodule "RcppEigen"]
+	path = RcppEigen
+	url = https://github.com/rcppcore/rcppeigen
+	shallow = true
+[submodule "RcppParallel"]
+	path = RcppParallel
+	url = https://github.com/rcppcore/rcppparallel
+	shallow = true
