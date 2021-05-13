@@ -8,18 +8,22 @@
 	url = https://github.com/rcppcore/rcpp
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "RcppArmadillo"]
 	path = RcppArmadillo
 	url = https://github.com/rcppcore/rcpparmadillo
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "RcppEigen"]
 	path = RcppEigen
 	url = https://github.com/rcppcore/rcppeigen
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "RcppParallel"]
 	path = RcppParallel
 	url = https://github.com/rcppcore/rcppparallel
 	shallow = true
 	registered = true
+	oncran = true
