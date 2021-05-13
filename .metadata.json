@@ -1,0 +1,18 @@
+[
+  {
+    "package": "Rcpp",
+    "oncran": true
+  },
+  {
+    "package": "RcppArmadillo",
+    "oncran": true
+  },
+  {
+    "package": "RcppEigen",
+    "oncran": true
+  },
+  {
+    "package": "RcppParallel",
+    "oncran": true
+  }
+]
