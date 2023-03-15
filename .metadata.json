@@ -1,6 +1,6 @@
 [
   {
-    "package": "Rcpp",
+    "package": "RcppParallel",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "RcppEigen",
+    "package": "Rcpp",
     "oncran": true
   },
   {
-    "package": "RcppParallel",
+    "package": "RcppEigen",
     "oncran": true
   }
 ]
